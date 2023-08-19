@@ -1,2 +1,2 @@
-# Diploma_UNA
+# UNA-Diploma
 Diplomas de participantes
